@@ -1,17 +1,1 @@
-{
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ],
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./src/*"]
-    }
-  },
-  "exclude": [
-    "node_modules",
-    "src/components/ui" // Add the directory you want to skip here
-  ]
-}
+// This file is no longer needed for the vanilla JavaScript project.

@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#map {
+    height: 100vh;
+}
+
+.leaflet-container {
+    background-color: #f0f0f0;
+}
